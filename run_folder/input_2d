@@ -1,0 +1,13 @@
+0.01	//dm
+0.009	//dr
+0.000015	//dt
+100000	//TIME
+100	//TOTAL FRAMES;
+1.5	//length_x
+0.7	//length_y
+2.25	//epsilon_1
+10.0	//epsilon_2 было 7 до этого
+1.0	//mu_1
+1.0	//mu_2
+1	//N_CCUDA
+1	//THREADS_PER_PROC
